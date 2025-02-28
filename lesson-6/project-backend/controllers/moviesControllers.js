@@ -43,5 +43,7 @@ export const deleteMovieById = async(req, res)=> {
 
     // res.status(204).send();
 
-    res.json(result);
+    res.json({
+        message: "Delete successfully"
+    });
 }
