@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1741286611917" clover="3.2.0">
+  <project timestamp="1741286611917" name="All files">
+    <metrics statements="10" coveredstatements="10" conditionals="14" coveredconditionals="14" methods="1" coveredmethods="1" elements="25" coveredelements="25" complexity="0" loc="10" ncloc="10" packages="1" files="1" classes="1"/>
+    <file name="calcWeightIndex.js" path="C:\GoIT\MCS_3_Node.js\lesson-10\test-function-example\functions\calcWeightIndex.js">
+      <metrics statements="10" coveredstatements="10" conditionals="14" coveredconditionals="14" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="7" type="cond" truecount="4" falsecount="0"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="6" count="5" type="cond" truecount="4" falsecount="0"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="10" count="3" type="cond" truecount="4" falsecount="0"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="14" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
